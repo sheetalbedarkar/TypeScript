@@ -1,0 +1,64 @@
+{
+    "Person": [
+        {
+            "Name": "Johan",
+            "LastName": "Gupta",
+            "Address": {
+                "Street": "23",
+                "City": "Solapur",
+                "State": "MP",
+                "Nationality": "Indian",
+                "Zip": "573201",
+                "PhoneNum": "7038723771"
+            }
+        },
+        {
+            "Name": "sandhya",
+            "LastName": "khadakhade",
+            "Address": {
+                "Street": "22",
+                "City": "Solapur",
+                "State": "MMaharashtra",
+                "Nationality": "Indian",
+                "Zip": "560060",
+                "PhoneNum": "9284008535"
+            }
+        },
+        {
+            "Name": "sheetal",
+            "LastName": "Bedarkar",
+            "Address": {
+                "Street": "21",
+                "City": "Nashik",
+                "State": "Maharashtra",
+                "Nationality": "Indian",
+                "Zip": "402010",
+                "PhoneNum": "9010412563"
+            }
+        },
+        {
+            "Name": "Aishwarya",
+            "LastName": "patil",
+            "Address": {
+                "Street": "27",
+                "City": "Nagpur",
+                "State": "MAharashtra",
+                "Nationality": "Indian",
+                "Zip": "402010",
+                "PhoneNum": "7411487048"
+            }
+        },
+        {
+            "Name": "ss",
+            "LastName": "ss",
+            "Address": {
+                "Street": "123",
+                "City": "ss",
+                "State": "ss",
+                "Nationality": "ss",
+                "Zip": "123456",
+                "PhoneNum": "2233114455"
+            }
+        }
+    ]
+}
